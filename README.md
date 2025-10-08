@@ -2,7 +2,7 @@
 
 Effective Date: September 12, 2025
 
-Caption That! (“we”, “our”, or “us”) values your privacy. This Privacy Policy explains how our iOS app (“the App”) handles your information.
+Caption That! (“we”, “our”, or “us”) values your privacy. This Privacy Policy explains how our mobile applications (‘the App’) handle your information on both iOS and Android platforms.
 
 ## Information We Collect
 - We do not collect, store, or share any personal information.  
@@ -15,12 +15,13 @@ Caption That! (“we”, “our”, or “us”) values your privacy. This Priva
 - Any information you provide voluntarily (e.g., through feedback email) is used only to respond to you.
 
 ## Third-Party Services
-- The App uses Apple’s in-app purchase system to allow unlocking of sticker packs. Apple may collect purchase and payment information in accordance with their policies.  
-- No other third-party services are integrated.
+The App uses the in-app purchase systems provided by Apple and Google Play to allow unlocking of sticker packs.  
+Apple and Google may collect purchase and payment information in accordance with their own privacy and security policies.  
+No other third-party services are integrated.
 
 ## Your Choices
-- You control all photos and stickers used in the App.  
-- You may delete the App at any time to remove all data stored locally.
+– You control all photos and stickers used in the App.  
+– You may delete the App at any time to remove all data stored locally on your device.
 
 ## Contact Us
 If you have questions about this Privacy Policy, contact us at:  
